@@ -15,9 +15,9 @@ Manisha Janpally - F937M744
 
 GIT HUB ID :
 
-mandadipraveen814@gmail.com(https://github.com/Praveen814)
+Praveen814 
 
-Mdvprasad.22@gmail.com(https://github.com/Kaneki1217)
+Kaneki1217
 
 rushikeshkoppolu1998@gmail.com
 
