@@ -25,3 +25,9 @@ Youtube video link:
 
 https://youtu.be/H20wgXcpf3Q
 
+Zip File:
+
+[EmployeeManagement.zip](https://github.com/Praveen814/EmployeeManagement/files/10161821/EmployeeManagement.zip)
+
+
+
